@@ -1,8 +1,5 @@
-/.metadata/
-/RemoteSystemsTempFiles/
-/.recommenders/
-/Servers/
-*/target/
-*/.settings/
-*/.classpath
-*/.project
+.settings
+target/
+.idea
+.classpath
+.project
