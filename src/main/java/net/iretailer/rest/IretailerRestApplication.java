@@ -7,7 +7,6 @@ import org.springframework.boot.context.web.SpringBootServletInitializer;
 import org.springframework.context.annotation.ImportResource;
 
 @EnableAutoConfiguration
-//@SpringBootApplication(exclude={DataSourceAutoConfiguration.class})
 @ImportResource(locations={"classpath:mybatis-config.xml"})
 public class IretailerRestApplication extends SpringBootServletInitializer {
 	@Override
