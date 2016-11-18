@@ -1,9 +1,8 @@
-.idea/
-target/
-*.iml
-*.swp
-.metadata/
-RemoteSystemsTempFiles/
-.class
-.project
-.DS_Store
+/.metadata/
+/RemoteSystemsTempFiles/
+/.recommenders/
+/Servers/
+*/target/
+*/.settings/
+*/.classpath
+*/.project
